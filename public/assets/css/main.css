@@ -1,0 +1,57 @@
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover{
+	box-shadow: none;
+}
+
+.picture-container{
+	margin-top: 25%;
+}
+
+.heart{
+	color: #FF3B30;
+}
+
+.wrapper > .header{
+	min-height: 150px;
+}
+
+.index-page .wrapper > .header{
+	height: 1vh;
+}
+
+.drop-links{
+	margin-right: 15px;
+}
+
+#components{
+	min-height: 600px;
+	margin-top: 5px;
+}
+#target{
+	min-height: 200px;
+	border: 1px solid #ccc;
+	padding: 5px;
+}
+#target .component{
+	border: 1px solid #fff;
+}
+#temp{
+	width: 500px;
+	background: white;
+	border: 1px dotted #ccc;
+	border-radius: 10px;
+}
+
+.popover-content form {
+	margin: 0 auto;
+	width: 213px;
+}
+.popover-content form .btn{
+	margin-right: 10px
+}
+#source{
+	min-height: 500px;
+}
+
+.frmb{
+	min-height: 520px !important;
+}

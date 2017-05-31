@@ -1,0 +1,30 @@
+{
+  "name": "nodeui",
+  "version": "1.0.0",
+  "description": "Login Signup UI in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fzs1994/NodeUI.git"
+  },
+  "keywords": [
+    "Node",
+    "UI",
+    "Feedback",
+    "System"
+  ],
+  "author": "Faizan Saiyed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fzs1994/NodeUI/issues"
+  },
+  "homepage": "https://github.com/fzs1994/NodeUI#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "ejs": "^2.5.2",
+    "express": "^4.15.3"
+  }
+}
